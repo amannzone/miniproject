@@ -22,6 +22,9 @@ button {
 .lilacButton{
   background-color: #C8A2C8;
 }
+.inkblueButton{
+  background-color: #2b2c7c;
+}
 
 table, th, td {
   border: 1px solid black;
