@@ -52,7 +52,9 @@ function outputData(person) {
   if ((new RegExp(/1926/gi)).test(person.birthyear)) {
     row.classList.add('auto');
   }
-
+  if ((new RegExp(/nobel/gi)).test(person.profession)) {
+    row.classList.add('nobel');
+  }
 }
 
 // The below function will get called when the window finishes loading our data

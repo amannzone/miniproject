@@ -19,6 +19,9 @@ button {
 .yellowButton{
   background-color: #FFED00;
 }
+.lilacButton{
+  background-color: #C8A2C8;
+}
 
 table, th, td {
   border: 1px solid black;
