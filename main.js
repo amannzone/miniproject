@@ -49,7 +49,7 @@ function outputData(person) {
     row.classList.add('presidents');
   }
   // Add a class to Auto*
-  if ((new RegExp(/author/gi)).test(person.profession)) {
+  if ((new RegExp(/1926/gi)).test(person.birthyear)) {
     row.classList.add('auto');
   }
 

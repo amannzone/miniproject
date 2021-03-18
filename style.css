@@ -8,16 +8,16 @@ button {
 }
 
 .redButton{
-  background-color: pink;
+  background-color: #D9876F;
 }
 .greenButton{
-  background-color: lightgreen;
+  background-color: #E2C449;
 }
 .blueButton{
   background-color: #00AADB;
 }
 .yellowButton{
-  background-color: yellow;
+  background-color: #FFED00;
 }
 
 table, th, td {
