@@ -14,7 +14,7 @@ button {
   background-color: lightgreen;
 }
 .blueButton{
-  background-color: lightblue;
+  background-color: #00AADB;
 }
 .yellowButton{
   background-color: yellow;
@@ -25,5 +25,5 @@ table, th, td {
 }
 
 table {
-  margin-top: 15px; 
+  margin-top: 15px;
 }
