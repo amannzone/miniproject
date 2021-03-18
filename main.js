@@ -59,6 +59,7 @@ function outputData(person) {
   if ((new RegExp(/author|poet/gi)).test(person.profession)) {
     row.classList.add('author');
   }
+}
 
 // The below function will get called when the window finishes loading our data
 window.onload = function() {
