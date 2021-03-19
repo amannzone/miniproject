@@ -56,7 +56,7 @@ function outputData(person) {
     row.classList.add('nobel');
   }
   // Add a class to Auto*
-  if ((new RegExp(/author|poet/gi)).test(person.profession)) {
+  if ((new RegExp(/author|poet|writer/gi)).test(person.profession)) {
     row.classList.add('author');
   }
 }
